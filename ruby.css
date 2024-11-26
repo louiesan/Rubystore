@@ -372,7 +372,7 @@ button.explore:hover {
 
 
 .sale-image img {
-    background: url(/images/big-sale.png);
+    background: url(images/big-sale.png);
     background-size: 330px;
     background-repeat: no-repeat;
     width: 330px;
